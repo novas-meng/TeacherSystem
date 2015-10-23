@@ -49,10 +49,10 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="16.37255">
-              <caret line="501" column="5" selection-start-line="501" selection-start-column="5" selection-end-line="501" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.29411766">
+              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
               <folding>
-                <marker date="1445606513000" expanded="true" signature="17138:17182" placeholder="{...}" />
+                <marker date="1445614115000" expanded="true" signature="17138:17182" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -187,8 +187,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="146" />
-    <option name="y" value="57" />
+    <option name="x" value="32" />
+    <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="714" />
   </component>
@@ -730,15 +730,15 @@
       <updated>1445586211802</updated>
       <workItem from="1445586217025" duration="5681000" />
       <workItem from="1445596368817" duration="225000" />
-      <workItem from="1445597684695" duration="6575000" />
+      <workItem from="1445597684695" duration="6623000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12481000" />
+    <option name="totallyTimeSpent" value="12529000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="146" y="57" width="1280" height="714" extended-state="0" />
+    <frame x="32" y="22" width="1280" height="714" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1034,10 +1034,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="16.37255">
-          <caret line="501" column="5" selection-start-line="501" selection-start-column="5" selection-end-line="501" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.29411766">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding>
-            <marker date="1445606513000" expanded="true" signature="17138:17182" placeholder="{...}" />
+            <marker date="1445614115000" expanded="true" signature="17138:17182" placeholder="{...}" />
           </folding>
         </state>
       </provider>
