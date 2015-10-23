@@ -1,0 +1,90 @@
+/*
+ * dialog
+*/
+
+.jt_dialog{
+    position: fixed;
+    z-index: 100;
+    border: 1px solid #F4F4F4;
+    background: white;
+    box-shadow: 0 0 5px #828282;
+    overflow: hidden;
+}
+.jt_dialog > ._dialogBody{
+
+}
+.jt_dialog > ._dialogBody > ._title{
+    position: relative;
+    height: 30px;
+    line-height: 30px;
+    color: #4F4F4F;
+}
+.jt_dialog > ._dialogBody > ._title > ._text{
+    text-indent: 10px;
+    font-weight: bold;
+}
+.jt_dialog > ._dialogBody > ._title > ._buttons{
+    position: absolute;
+    right: 8px;
+    top: 4px;
+}
+.jt_dialog > ._dialogBody > ._title > ._buttons > ._button{
+    width: 24px;
+    height: 24px;
+    border: 1px solid white;
+}
+.jt_dialog > ._dialogBody > ._title > ._buttons > ._button.hover{
+    box-shadow: 0 0 4px #DBDBDB;
+    background-color: #F7F7F7;
+    border-color: #DDDDDD;
+}
+.jt_dialog > ._dialogBody > ._title > ._buttons > ._button.press{
+    background-color: #BFBFBF;
+}
+.jt_dialog > ._dialogBody > ._title > ._buttons > ._button._close{
+    background-image: url("image/closeIcon.png");
+    background-repeat: no-repeat;
+}
+.jt_dialog > ._dialogBody > ._client{
+    overflow: auto;
+    font-size: 12px;
+    padding: 10px;
+    color: #3F3F3F;
+}
+
+/*
+ * titletip
+*/
+.jt_titletip{
+    position: absolute;
+    background: #F9EDBE;
+    border: 1px solid #dcc694;
+    box-shadow: 0 0 4px #AAAAAA;
+    padding: 8px;
+    border-radius: 2px;
+}
+.jt_titletip_path{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: url("image/jt_base.png") no-repeat;
+}
+.jt_titletip_path.top{
+    height: 10px;
+    background-position: -42px -56px;
+}
+.jt_titletip_path.right{
+    width: 10px;
+    background-position: -21px -35px;
+}
+.jt_titletip_path.bottom{
+    height: 10px;
+    background-position: -42px -13px;
+}
+.jt_titletip_path.left{
+    width: 10px;
+    background-position: -63px -35px;
+}
+
+
+
