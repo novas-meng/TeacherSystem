@@ -366,7 +366,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/TeacherSystem-developer" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
@@ -730,12 +730,12 @@
       <updated>1445586211802</updated>
       <workItem from="1445586217025" duration="5681000" />
       <workItem from="1445596368817" duration="225000" />
-      <workItem from="1445597684695" duration="6815000" />
+      <workItem from="1445597684695" duration="7711000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12721000" />
+    <option name="totallyTimeSpent" value="13617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="22" width="1280" height="714" extended-state="0" />
